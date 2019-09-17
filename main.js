@@ -37,8 +37,9 @@ function start(){
         cv.convertRes(scalecfg.srcFolder,scalecfg.params);
     })
 }
-module.exports = start;
-// start();
+start();
+// module.exports = start;
+
 
 
 
