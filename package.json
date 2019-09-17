@@ -1,6 +1,6 @@
 {
   "name": "jxdemote",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -11,6 +11,9 @@
   "dependencies": {
     "image-size": "^0.7.4",
     "sharp": "^0.23.0"
+  },
+  "bin":{
+    "start":"./main.js"
   },
   "repository": {
     "type": "git",
