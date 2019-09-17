@@ -1,6 +1,6 @@
 {
   "name": "jxdemote",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "sharp": "^0.23.0"
   },
   "bin":{
-    "start":"./main.js"
+    "jxdemote":"./main.js"
   },
   "repository": {
     "type": "git",
